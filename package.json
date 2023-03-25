@@ -1,0 +1,20 @@
+{
+  "name": "practical-code-snippets",
+  "version": "1.0.0",
+  "description": "各种各样实用或有趣的代码片段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://gitee.com/crayon-small-old/practical-code-snippets.git",
+  "author": "heyq <heyq020814@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
